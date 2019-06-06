@@ -1,0 +1,1 @@
+storescp -od "dicom" -q -xcr "printArg #f" 1234 
