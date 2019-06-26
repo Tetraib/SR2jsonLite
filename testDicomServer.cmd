@@ -1,0 +1,1 @@
+third_party\dcmtk\storescu 127.0.0.1 11112 C:\Users\thibaut.constant\Documents\code\SR2jsonLite\test\testdata\SR\Testdlp83.63ctdi2.29.sr
